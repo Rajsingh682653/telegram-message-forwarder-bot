@@ -18,8 +18,8 @@ sudo_users = [6929107383, 6929107383]                                 # optional
 # Atleast one chat must be added
 
 [[chats]]
-from = -100123456789        # required
-to = 123456789              # required
+from = -1908578896        # required
+to = 1998483689              # required
 replace = { "old" = "new" } # optional
 
 [[chats]]
